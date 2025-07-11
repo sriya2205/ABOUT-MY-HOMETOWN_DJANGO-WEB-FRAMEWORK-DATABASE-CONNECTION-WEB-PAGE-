@@ -6,25 +6,23 @@ The goal was to demonstrate web development skills using Django, focusing on bot
 
 ***Key Features:
 
-...Comprehensive listings of:
-
 1. Temples
 
 2. Educational Institutions
 
 3. Transportation Hubs
 
-***Essential Services (e.g., hospitals, police stations):
+4. Essential Services (e.g., hospitals, police stations)
 
-1. Recreational Spots
+5. Recreational Spots
 
-.Dynamic rendering of content using Django templates
+6. Dynamic rendering of content using Django templates
 
-.Seamless database connectivity and data retrieval
+7. Seamless database connectivity and data retrieval
 
-.Organized UI for easy navigation
+8. organized UI for easy navigation
 
-.Scalable and modular project structure
+9. Scalable and modular project structure
 
 ***Tech Stack:
 
